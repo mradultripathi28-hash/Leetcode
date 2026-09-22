@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0120-triangle](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0120-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0120-triangle](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->

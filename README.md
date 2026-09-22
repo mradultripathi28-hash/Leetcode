@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0029-divide-two-integers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

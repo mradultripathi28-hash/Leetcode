@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0031-next-permutation) |
 | [0119-pascals-triangle-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0120-triangle) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -97,13 +98,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->

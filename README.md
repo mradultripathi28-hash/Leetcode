@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0050-powx-n) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0050-powx-n) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
 |  |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

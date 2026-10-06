@@ -8,17 +8,16 @@ class Solution {
             if (c == '(') {
                 openCount++;
             } else {
-               
+                
                 if (openCount > 0) {
                     openCount--;
                 } else {
-                 
+                   
                     unmatchedClose++;
                 }
             }
         }
 
-        
         return unmatchedClose + openCount;
     }
 }

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0120-triangle) |
 | [0303-range-sum-query-immutable](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3886-sum-of-sortable-integers) |

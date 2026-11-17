@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0190-reverse-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table

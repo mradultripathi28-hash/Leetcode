@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0202-happy-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0202-happy-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0202-happy-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0197-rising-temperature) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

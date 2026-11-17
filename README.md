@@ -279,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0100-same-tree) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->

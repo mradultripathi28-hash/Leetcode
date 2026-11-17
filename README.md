@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |

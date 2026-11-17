@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0342-power-of-four) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table

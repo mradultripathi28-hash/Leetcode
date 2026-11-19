@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4059-lexicographically-largest-power-array](https://github.com/mradultripathi28-hash/Leetcode/tree/master/4059-lexicographically-largest-power-array) |
 ## Linked List
 |  |
@@ -195,12 +196,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Memoization
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Stack
 |  |
 | ------- |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |

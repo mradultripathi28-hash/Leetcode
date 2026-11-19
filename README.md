@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0935-knight-dialer](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0935-knight-dialer) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion

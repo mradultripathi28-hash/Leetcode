@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2354-number-of-excellent-pairs](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2354-number-of-excellent-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |

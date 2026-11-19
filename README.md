@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |

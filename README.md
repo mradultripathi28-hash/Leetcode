@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Geometry
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/mradultripathi28-hash/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## DP on Trees
 |  |
 | ------- |

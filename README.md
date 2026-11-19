@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0936-stamping-the-sequence](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0936-stamping-the-sequence](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0936-stamping-the-sequence](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mradultripathi28-hash/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mradultripathi28-hash/Leetcode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0936-stamping-the-sequence](https://github.com/mradultripathi28-hash/Leetcode/tree/master/0936-stamping-the-sequence) |
 ## Binary Search Tree
 |  |
 | ------- |
